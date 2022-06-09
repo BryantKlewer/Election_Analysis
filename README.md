@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Project Overview
-
+* In this analysis we are tasked with auditing a recent Colorado Board of Elections local congressional election. In order to complete this audit, we must:
 
 ## Resources
 * Data source: elction_analysis.csv
