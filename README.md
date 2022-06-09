@@ -14,17 +14,17 @@
 
 ## Summary
 * After analyizing the election data the audit found that:
-  1. The total number of votes cast in the election was ...
-  2. The candidates that recieved votes in the election were:
-    - Candidate 1
-    - Candidate 2
-    - Candidate 3
-  3. The individual candidate's election results were:
-    - Candidate 1 received x number of total votes which accounted for y% of the total votes.
-    - Candidate 2 received x number of total votes which accounted for y% of the total votes.
-    - Candidate 3 received x number of total votes which accounted for y% of the total votes.
-  4. The winner of the election was:
-    - Candidate X which received Y% of the popular vote and Z# of the total popular votes.
+1. The total number of votes cast in the election was ...
+2. The candidates that recieved votes in the election were:
+  - Candidate 1
+  - Candidate 2
+  - Candidate 3
+3. The individual candidate's election results were:
+  - Candidate 1 received x number of total votes which accounted for y% of the total votes.
+  - Candidate 2 received x number of total votes which accounted for y% of the total votes.
+  - Candidate 3 received x number of total votes which accounted for y% of the total votes.
+4. The winner of the election was:
+  - Candidate X who received Y# of the total popular vote and Z% of the total votes.
 
 
 ## Challenge Overview
