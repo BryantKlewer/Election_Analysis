@@ -97,16 +97,3 @@ with open(file_to_save, "w") as txt_file:
     print(winning_candidate_summary)
     # Save the winning candidate's results to the text file
     txt_file.write(winning_candidate_summary)
-
-
-
-
-
-
-# The data we need to retreive
-# The total number of votes cast
-# A complete list of candidates who received votes
-# The percentage of votes each candidate won
-# The total number of votes each candidate won
-# The Winner of the election based on popular vote.
-
