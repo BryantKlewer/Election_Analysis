@@ -34,3 +34,8 @@
   - Diana DeGette who received 272,892 of the total popular vote and 73.8% of the total votes.
 
 ## Summary
+* In summary, the creation of the the script used in this analysis will be beneficial to the election commission in the future. This script can be modified to allow for other election analysis results to be produced. Election data is output into a CSV file, this script imports the CSV file and converts it into Python for rapid analysis meaning any other election could produce the same output. 
+
+
+
+-
