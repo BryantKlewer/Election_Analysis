@@ -14,7 +14,7 @@
 * Software: Python 3.10.4, Visual Studio Code 1.67.2
 
 ## Election Results
-* After analyizing the election data the audit found that:
+### After analyizing the election data the audit found that:
 1. The total number of votes cast in the election was 369,711.
 2. The individual county results were:
   - Jefferson County produced 38,855 total votes which accounted for 10.5% of the total votes that were cast.
