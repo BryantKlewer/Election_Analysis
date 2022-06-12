@@ -34,7 +34,7 @@
   - Diana DeGette who received 272,892 of the total popular vote and 73.8% of the total votes.
 
 ## Summary
-* In summary, the creation of the the script used in this analysis will be beneficial to the election commission in the future. This script can be modified to allow for other election analysis results to be produced. Election data is output into a CSV file, this script imports the CSV file and converts it into Python for rapid analysis meaning any other election could produce the same output. 
+* In summary, a script was written in order to determine all counties that participated in congressional election as well as their total number of votes and what percentage of votes those accounted for. Additionally, it found all candidates in the election and accumulated thier total number of votes and what percentage they recieved. Finally, it output all of this information as well as which county produced the highest number of total votes and the winner of the election into a text document for ease of understanding. The creation of the the script used in this analysis is beneficial to the election commission into the future. This script can be modified to allow for other election analysis results to be produced. Simply determine what information you would want to 
 
 
 
